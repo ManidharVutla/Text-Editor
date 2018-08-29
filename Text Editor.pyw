@@ -8,7 +8,7 @@ root=Tk()
 title="Simple Text Editor!";
 root.title(title)
 root.geometry("1000x500")
-root.wm_iconbitmap('logo.ico')
+
 
 
 
