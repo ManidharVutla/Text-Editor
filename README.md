@@ -3,4 +3,4 @@ A Simple Text Editor built with Python Tkinter (2.7)
 
 
 
-![Image description](https://github.com/ManidharVutla/Text-Editor/tree/master/images/1.jpg)
+![Image description](images/1.jpg)
